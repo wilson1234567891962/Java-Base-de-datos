@@ -1,0 +1,775 @@
+2019-07-08 23:06:48 INFO  EntityCache:32 - Se cargo correctamente el archivo properties
+2019-07-08 23:08:27 INFO  EntityCache:32 - Se cargo correctamente el archivo properties
+2019-07-08 23:15:50 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:15:50 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:16:14 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:16:45 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:16:45 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:17:25 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:17:25 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:20:17 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:20:17 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:21:12 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:21:12 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:22:59 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:22:59 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:23:08 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:23:08 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:23:17 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:28:16 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:28:16 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:28:38 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:28:38 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:29:08 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:29:08 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.lang.ClassNotFoundException: oracle.jdbc.driver.OracleDriver
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:15)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:37:00 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:37:01 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: argumentos no válidos en la llamada
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:208)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:236)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:270)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:37:43 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:37:43 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: argumentos no válidos en la llamada
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:208)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:236)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:270)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:38:04 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:38:05 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: argumentos no válidos en la llamada
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:208)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:236)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:270)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:38:20 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:42:05 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:42:06 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: Excepción de E/S: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:255)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:387)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:42:35 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:43:23 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:43:24 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: Excepción de E/S: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:255)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:387)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:43:35 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:43:36 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: Excepción de E/S: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:255)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:387)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:43:44 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:44:31 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:44:32 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:785)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:362)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:46:05 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:46:05 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:785)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:362)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:46:12 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:46:12 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:785)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:362)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:47:45 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:47:47 ERROR Facturacion:18 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:283)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:278)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:785)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:362)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:414)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.facturacion.conexion.Conexion.conectar(Conexion.java:16)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:16)
+2019-07-08 23:48:00 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:49:47 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-08 23:49:47 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:09:24 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-09 00:09:24 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:09:24 ERROR Facturacion:22 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: Falta el parámetro IN o OUT en el índice:: 2
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1814)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3280)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3390)
+	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4223)
+	at com.procedimientos.almacenados.Registro.insertInformation(Registro.java:14)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:20)
+2019-07-09 00:09:41 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-09 00:09:42 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:09:42 ERROR Facturacion:22 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: Falta el parámetro IN o OUT en el índice:: 2
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1814)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3280)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3390)
+	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4223)
+	at com.procedimientos.almacenados.Registro.insertInformation(Registro.java:14)
+	at com.facturacion.facturaciones.Facturacion.main(Facturacion.java:20)
+2019-07-09 00:15:14 INFO  EntityCache:33 - Se cargo correctamente el archivo properties
+2019-07-09 00:15:15 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:38:06 INFO  EntityCache:34 - Se cargo correctamente el archivo properties
+2019-07-09 00:38:06 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:38:06 ERROR Billing:24 - Se presentaron problemas con el metodo principal 
+java.io.FileNotFoundException: file.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at com.billing.utilities.Files.getObjetBilling(Files.java:23)
+	at com.billing.principal.Billing.main(Billing.java:22)
+2019-07-09 00:38:38 INFO  EntityCache:34 - Se cargo correctamente el archivo properties
+2019-07-09 00:38:38 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 78
+2019-07-09 00:38:38 INFO  Files:29 - data 79
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 77
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 53
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 69
+2019-07-09 00:38:38 INFO  Files:29 - data 88
+2019-07-09 00:38:38 INFO  Files:29 - data 84
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 51
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 51
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 70
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 73
+2019-07-09 00:38:38 INFO  Files:29 - data 68
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 52
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 51
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 78
+2019-07-09 00:38:38 INFO  Files:29 - data 79
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 77
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 55
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 53
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 52
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 69
+2019-07-09 00:38:38 INFO  Files:29 - data 88
+2019-07-09 00:38:38 INFO  Files:29 - data 84
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 57
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 53
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 78
+2019-07-09 00:38:38 INFO  Files:29 - data 79
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 77
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 78
+2019-07-09 00:38:38 INFO  Files:29 - data 79
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 77
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 51
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 51
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 55
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 78
+2019-07-09 00:38:38 INFO  Files:29 - data 79
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 77
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 52
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 78
+2019-07-09 00:38:38 INFO  Files:29 - data 79
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 77
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 76
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 53
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 13
+2019-07-09 00:38:38 INFO  Files:29 - data 10
+2019-07-09 00:38:38 INFO  Files:29 - data 53
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 57
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 54
+2019-07-09 00:38:38 INFO  Files:29 - data 50
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 49
+2019-07-09 00:38:38 INFO  Files:29 - data 56
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 69
+2019-07-09 00:38:38 INFO  Files:29 - data 88
+2019-07-09 00:38:38 INFO  Files:29 - data 84
+2019-07-09 00:38:38 INFO  Files:29 - data 82
+2019-07-09 00:38:38 INFO  Files:29 - data 65
+2019-07-09 00:38:38 INFO  Files:29 - data 59
+2019-07-09 00:38:38 INFO  Files:29 - data 51
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data 48
+2019-07-09 00:38:38 INFO  Files:29 - data -1
+2019-07-09 00:40:00 INFO  EntityCache:34 - Se cargo correctamente el archivo properties
+2019-07-09 00:40:00 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:40:22 INFO  EntityCache:34 - Se cargo correctamente el archivo properties
+2019-07-09 00:40:22 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:43:54 INFO  EntityCache:34 - Se cargo correctamente el archivo properties
+2019-07-09 00:43:54 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 1;10;20062018;NORMAL;50000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 2;11;20062018;EXTRA;30000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 3;12;20062018;FALLIDA;10000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 4;13;20062018;NORMAL;70000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 5;14;20062018;EXTRA;90000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 1;15;21062018;NORMAL;20000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 2;16;21062018;NORMAL;30000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 3;17;21062018;NORMAL;10000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 4;18;21062018;NORMAL;50000000
+2019-07-09 00:43:54 WARN  Files:31 - No se carga los datos para esta linea 5;19;21062018;EXTRA;30000000
+2019-07-09 00:46:34 INFO  EntityCache:35 - Se cargo correctamente el archivo properties
+2019-07-09 00:46:34 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 00:54:14 INFO  EntityCache:35 - Se cargo correctamente el archivo properties
+2019-07-09 00:54:14 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 01:07:12 INFO  EntityCache:35 - Se cargo correctamente el archivo properties
+2019-07-09 01:07:12 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 01:07:12 ERROR Billing:27 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'INSERTREGISTER'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:288)
+	at oracle.jdbc.driver.T4C8Oall.receive(T4C8Oall.java:743)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:212)
+	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:951)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1160)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3285)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3390)
+	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4223)
+	at com.billing.procedure.Registry.insertInformation(Registry.java:26)
+	at com.billing.principal.Billing.main(Billing.java:25)
+2019-07-09 01:08:08 INFO  EntityCache:35 - Se cargo correctamente el archivo properties
+2019-07-09 01:08:08 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:08:08 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 01:36:30 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 01:36:30 INFO  Registry:27 - Registro insertado exitosamente 
+2019-07-09 03:15:57 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:15:57 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:16:35 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:16:35 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:16:35 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:24:56 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:24:56 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:24:56 ERROR Billing:28 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-20913: Error en Trama:ORA-01403: no data found
+ORA-06512: at "FACTURACION.PKG_FACTURACION", line 26
+ORA-06512: at line 1
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:288)
+	at oracle.jdbc.driver.T4C8Oall.receive(T4C8Oall.java:743)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:212)
+	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:951)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1160)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3285)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3390)
+	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4223)
+	at com.billing.procedure.Registry.insertInformation(Registry.java:26)
+	at com.billing.principal.Billing.main(Billing.java:26)
+2019-07-09 03:25:38 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:25:38 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:27:26 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:27:26 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:27:27 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:27:27 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:27:27 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:27:27 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:27:27 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:27:27 ERROR Billing:28 - Se presentaron problemas con el metodo principal 
+java.sql.SQLException: ORA-20913: Error en Trama:ORA-00001: unique constraint (FACTURACION.SERVICIOS_PRESTADOS_PK) violated
+ORA-06512: at "FACTURACION.PKG_FACTURACION", line 29
+ORA-06512: at line 1
+
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:288)
+	at oracle.jdbc.driver.T4C8Oall.receive(T4C8Oall.java:743)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:212)
+	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:951)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1160)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3285)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3390)
+	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4223)
+	at com.billing.procedure.Registry.insertInformation(Registry.java:26)
+	at com.billing.principal.Billing.main(Billing.java:26)
+2019-07-09 03:28:18 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:28:19 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 WARN  Registry:30 - Se presento problemas para insertar el registro 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:28:19 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  EntityCache:36 - Se cargo correctamente el archivo properties
+2019-07-09 03:29:34 INFO  Conexion:17 - Conectado exitosamente
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 WARN  Registry:30 - Se presento problemas para insertar el registro, datos del registro
+2019-07-09 03:29:34 WARN  Registry:31 - id Transaction 1
+2019-07-09 03:29:34 WARN  Registry:32 - id Client 1
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
+2019-07-09 03:29:34 INFO  Registry:28 - Registro insertado exitosamente 
