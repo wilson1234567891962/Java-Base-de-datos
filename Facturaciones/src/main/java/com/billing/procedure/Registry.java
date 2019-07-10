@@ -28,6 +28,8 @@ public class Registry {
                 logger.info("Registro insertado exitosamente ");
             } else {
                 logger.warn("Se presento problemas para insertar el registro, datos del registro");
+                logger.warn("Mensaje de base de datos " + callableStatement.getString(6));
+                logger.warn("id Value Transaction " + it.getValueTransaction());
                 logger.warn("id Transaction " + it.getIdTransaction());
                 logger.warn("id Client " + it.getIdClient());
             }
