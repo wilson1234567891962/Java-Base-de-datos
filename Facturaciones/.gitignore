@@ -14,4 +14,4 @@ nb-configuration.xml
 *.jar
 *.war
 *.ear
-Facturacion.log
+*.log
