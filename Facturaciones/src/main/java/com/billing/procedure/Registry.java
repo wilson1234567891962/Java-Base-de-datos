@@ -27,7 +27,7 @@ public class Registry {
             if (callableStatement.getString(6).equals("Exitoso")) {
                 logger.info("Registro insertado exitosamente ");
             } else {
-                logger.warn("Se presento problemas para insertar el registro, datos del registro");
+                logger.warn("Se presento problemas para insertar el registro, datos del registro, posiblemente no haga match el registro o ya se encuentra la transaccion registrada");
                 logger.warn("Mensaje de base de datos " + callableStatement.getString(6));
                 logger.warn("id Value Transaction " + it.getValueTransaction());
                 logger.warn("id Transaction " + it.getIdTransaction());
