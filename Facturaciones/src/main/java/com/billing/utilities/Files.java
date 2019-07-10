@@ -22,7 +22,7 @@ public class Files {
             String register;
             while ((register = br.readLine()) != null) {
                 String[] tmp = register.split(cache.getSeparator());
-                if (tmp != null && tmp.length >= 2) {
+                if (tmp != null && tmp.length >= 4) {
                     BillingDTO mappingBilling = new BillingDTO();
                     mappingBilling.setIdTransaction(Format.convertNumber(tmp[0]));
                     mappingBilling.setIdClient(Format.convertNumber(tmp[1]));
@@ -31,7 +31,7 @@ public class Files {
                     mappingBilling.setRode(Format.convertNumber(tmp[4]));
                     billingDTO.add(mappingBilling);
                 } else {
-                    logger.warn("No se carga los datos para esta linea " + register);
+                    logger.warn("No se carga los datos para esta linea, no cumple con la longitud minima de 4 datos " + register);
                 }
             }
         } catch (IOException | ParseException e) {
