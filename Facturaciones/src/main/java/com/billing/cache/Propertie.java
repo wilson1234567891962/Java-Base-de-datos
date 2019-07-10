@@ -12,10 +12,10 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 
 public class Propertie {
-
+    
     static Logger logger = Logger.getLogger(EntityCache.class);
     private EntityCache cache;
-
+    
     public void getProperties() throws IOException {
         Properties properties = new Properties();
         InputStream inputStream = null;
@@ -36,6 +36,7 @@ public class Propertie {
             logger.info("Se cargo correctamente el archivo properties");
         } catch (Exception e) {
             logger.error("Se han presentado problemas para configurar el archivos properties ", e);
+            logger.error("No se ubico esta ruta y archivo properties/Facturacion.properties");
         } finally {
             try {
                 if (inputStream != null) {
@@ -46,7 +47,7 @@ public class Propertie {
             }
         }
     }
-
+    
     private String concatTheConnection() {
         StringBuilder cadenaConexion = new StringBuilder();
         cadenaConexion.append("jdbc:oracle:thin:@");
@@ -56,5 +57,5 @@ public class Propertie {
         cadenaConexion.append(":xe");
         return cadenaConexion.toString();
     }
-
+    
 }
